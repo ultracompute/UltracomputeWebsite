@@ -9,22 +9,22 @@ const socials = [
     icon: Simple.IconEmail,
   },
   {
-    href: "https://www.linkedin.com/company/quantumintelligencesociety/",
+    href: "https://www.linkedin.com/company/ultracompute",
     name: "LinkedIn",
     icon: Simple.IconLinkedIn,
   },
   {
-    href: "https://github.com/QuantumIntelligenceSociety",
+    href: "https://github.com/ultracompute",
     name: "GitHub",
     icon: Simple.IconGitHub,
   },
   {
-    href: "https://www.facebook.com/QuantumIntelligenceSociety",
+    href: "https://www.facebook.com/ultracompute",
     name: "Facebook",
     icon: Simple.IconFacebook,
   },
   {
-    href: "https://www.instagram.com/quantumintelligencesociety",
+    href: "https://www.instagram.com/ultracompute",
     name: "Instagram",
     icon: Simple.IconInstagram,
   },

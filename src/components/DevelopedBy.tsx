@@ -14,12 +14,12 @@ const DevelopedBy = () => {
       <span>
         Developed by{" "}
         <a
-          href="https://github.com/QuantumIntelligenceSociety/QISWebsite"
+          href="https://github.com/ultracompute/QISWebsite"
           className="inline-block transition duration-300 hover:-translate-y-px outline-none hover:text-primary-10 focus-visible:text-primary-10"
           target="_blank"
           aria-label="Developer"
         >
-          量子智慧學會 Quantum Intelligence Society (QIS)
+          極致計算研究所 Ultracompute Institute
         </a>
       </span>
     </div>
